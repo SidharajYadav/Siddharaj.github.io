@@ -152,8 +152,7 @@ section {
         display: flex;
         align-items: center;
         position: relative;
-        .h-shape {
-            transition: all .4s ease-in-out;
+        .h-shape 
             width: 65%;
             height: 100%;
             background-color: var(--color-secondary);
